@@ -1,0 +1,12 @@
+This is my first file and I am writing first 
+line in master branch
+Total line count is 2
+
+
+
+Heres a free space
+
+
+
+
+Here too
