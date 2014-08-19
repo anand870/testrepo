@@ -1,0 +1,31 @@
+This is my first file and I am writing first 
+line in testbranch branch
+Total line count is 2
+
+
+
+<<<<<<< HEAD
+Heres a free Space
+||||||| merged common ancestors
+Heres a free space
+=======
+Heres A free space
+>>>>>>> master
+
+
+
+
+Here too
+<<<<<<< HEAD
+
+
+One wxtra line here
+||||||| merged common ancestors
+=======
+
+
+
+
+
+I introduced a new change in master branch
+>>>>>>> master
